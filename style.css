@@ -14,8 +14,7 @@ blockquote {
     border-left: 3px solid #ccc;
 }
 
-.monospace,
-.m { 
+.monospace { 
 	font-family: "monospace"; 
 }
 
